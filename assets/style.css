@@ -10,6 +10,7 @@ textarea{
   border: none;
   resize: none;
   color: #000000;
+  font-size: 20px;
   border-left: 1px solid black;
   padding: 10px;
 }
@@ -44,12 +45,12 @@ textarea{
 }
 
 .past {
-  background-color: #C9CAD8;
+  background-color: #5D6C89;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #FEB06A;
   color: white;
 }
 
