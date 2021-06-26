@@ -1,7 +1,7 @@
 # scheduler
 
 ## Purpose - To create a daytime planner for a busy day. Time blocks will know what part of the day you are in. Past time, present time, and future will
-have different shades determining the time of day it is. All items store in the planner are saved.
+## have different shades determining the time of day it is. All items store in the planner are saved.
 
 ### Daytime planner utilizes HTML, CSS, Javascript/Jquery.
 
